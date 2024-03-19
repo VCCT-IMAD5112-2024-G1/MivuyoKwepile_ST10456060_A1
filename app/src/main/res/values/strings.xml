@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">1111</string>
+    <string name="appHeader">Multiplication Tables</string>
+    <string name="textHint">Enter the number</string>
+    <string name="ButtonText">Multiply!</string>
+</resources>
