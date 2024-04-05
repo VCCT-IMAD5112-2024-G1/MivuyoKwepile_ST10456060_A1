@@ -10,3 +10,4 @@ step 7: press the generate history button
 step 8: information will pop up on the display 
 step 9: press the clear button to clear information
 step 10: close app
+youtube video link: https://youtu.be/Vn-tv04xvhc
